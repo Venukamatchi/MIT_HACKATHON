@@ -1,8 +1,8 @@
 # TEAM NAME:- LIFE IS WORSE
+# PROBLEM STATEMENT:- AI-Powered Harassment Detector for Workplaces & Social Media
 ## TEAM MEMBERS:- 
 * VENUKAMATCHI P
 * THEOPHILUS VICTOR K J
 * ADITH PRAMOD 
 * SATHISHVAR M
 ### COLLEGE NAME:- VEL TECH MULTI TECH ENGINEERING COLLEGE
-# PROBLEM STATEMENT:- AI-Powered Harassment Detector for Workplaces & Social Media
